@@ -1,6 +1,6 @@
 # bmeet
 
-CLI to Create Brave Talk links
+CLI to Create [Brave Talk](https://talk.brave.com/) links
 
 > npx bmeet
 
