@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/heldr/bravevent.git"
+    "url": "https://github.com/heldr/bmeet"
   },
   "keywords": [
     "CLI",
