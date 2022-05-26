@@ -4,12 +4,6 @@ CLI to Create [Brave Talk](https://talk.brave.com/) links
 
 > npx bmeet
 
-## Copy meeting url on Mac
-
-```cli
-npx bmeet | pbcopy
-```
-
 ## Install
 
 ```cli
@@ -28,7 +22,7 @@ Or if you like [Italian sandwiches](https://search.brave.com/search?q=italian+bm
 bmt
 ```
 
-with Apple sauce:
+### Copy meeting url on Mac
 
 ```cli
 bmt | pbcopy
