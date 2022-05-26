@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.autoClosingQuotes": "always",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "editor.tabSize": 2
+}

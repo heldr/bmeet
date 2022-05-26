@@ -1,0 +1,31 @@
+{
+  "name": "bmeet",
+  "version": "1.0.0",
+  "description": "CLI to create Brave talk links",
+  "main": "index.mjs",
+  "bin": {
+    "bmeet": "./index.mjs",
+    "bmt": "./index.mjs"
+  },
+  "scripts": {
+    "test": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/heldr/bravevent.git"
+  },
+  "keywords": [
+    "CLI",
+    "Brave",
+    "Talk",
+    "Meeting",
+    "Calendar",
+    "Link"
+  ],
+  "author": "Helder Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heldr/bmeet/issues"
+  },
+  "homepage": "https://github.com/heldr/bmeet#readme"
+}
