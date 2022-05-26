@@ -7,6 +7,10 @@
     "bmeet": "./index.mjs",
     "bmt": "./index.mjs"
   },
+  "files": [
+    "index.mjs",
+    "README.md"
+  ],
   "scripts": {
     "test": "node index.mjs"
   },
